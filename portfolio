@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Muhammad Ahmad - Affiliate Marketer & Digital Strategist</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+            background-color: #121212;
+            color: #f1f1f1;
+            line-height: 1.6;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            text-align: center;
+        }
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            color: #ffffff;
+        }
+        h2 {
+            font-size: 1.8rem;
+            margin-top: 40px;
+            margin-bottom: 10px;
+            color: #ffffff;
+        }
+        p {
+            margin-bottom: 20px;
+            font-size: 1rem;
+            color: #d3d3d3;
+        }
+        img {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            object-fit: cover;
+            margin-bottom: 20px;
+        }
+        .contact {
+            padding: 20px;
+            background-color: #1e1e1e;
+            border-radius: 5px;
+        }
+        .contact h2 {
+            margin-top: 0;
+        }
+        .contact a {
+            color: #4caf50;
+            text-decoration: none;
+        }
+        .contact a:hover {
+            text-decoration: underline;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            font-size: 0.9rem;
+            color: #888;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Muhammad Ahmad</h1>
+        <img src="C:\Users\khatt\OneDrive\Pictures\me.jpg" alt="Muhammad Ahmad">
+        <p>I am a passionate <strong>Affiliate Marketer</strong> with a strong track record of building successful partnerships and driving revenue growth. My expertise lies in connecting the right brands with the right audiences, ensuring mutually beneficial results.</p>
+        
+        <h2>About Me</h2>
+        <p>With a deep understanding of affiliate marketing strategies, I excel in optimizing campaigns, identifying lucrative opportunities, and maximizing returns. My background in digital marketing further enhances my ability to leverage online platforms for impactful results. Besides marketing, I have a keen passion for photography, capturing moments that tell stories.</p>
+        
+        <div class="contact">
+            <h2>Contact Me</h2>
+            <p>Email: <a href="mailto:Khattakahmed706@gmail.com">Khattakahmed706@gmail.com</a></p>
+            <p>Instagram: <a href="https://www.instagram.com/khattakahmad16" target="_blank">@khattakahmad16</a></p>
+        </div>
+    </div>
+    
+    <footer>
+        &copy; 2024 Muhammad Ahmad. All rights reserved.
+    </footer>
+</body>
+</html>
